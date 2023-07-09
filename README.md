@@ -9,11 +9,11 @@
 
 ## Screenshots of the Project 
 <br> 
-![main_page](https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/b6f3ed4c-bee0-44a7-8334-54470f270a2f)
-<br>
-![city_ss](https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/c44ac93c-c42b-4339-88d4-5b887b114ca9)
- <br>
-![wrong-city](https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/3cfdcf1e-d879-449a-b4f4-3b88ec219ed2)
+<img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/2e5af22d-b4a4-4aab-a4bf-3994aafc8736">
+<br><br>
+<img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/4b4c1c01-5af2-4eb7-b78a-0803efd3a527">
+<br><br>
+<img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/91bbd2a7-4365-406d-8b4d-e0f5347f4f3b">
 
 <br><br>
 
