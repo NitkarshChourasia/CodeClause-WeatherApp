@@ -3,7 +3,7 @@
 <br> 
 🔭 I’m currently a virtual intern at CodeClause! <br><br>
 🚀 This is my first Project on "Weather App using OpenWeatherMap API" under this Internship. <br>
-&nbsp &nbsp &nbsp  In this project, I have learned how to use API key and fetch data using the city names. <br><br>
+&nbsp &nbsp &nbsp  In this project, I have learned how to use API key and fetch data using the city/state/island/country names. <br><br>
 ⚡ Right now, I'm learning web development. <br>
 <br><br>
 
