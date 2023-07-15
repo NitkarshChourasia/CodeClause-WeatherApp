@@ -2,13 +2,13 @@
 ## About Me
 <br> 
 🔭 I’m currently a virtual intern at CodeClause! <br><br>
-🚀 This is my first Project on "Weather App using OpenWeatherMap API" under this Internship. <br> In this project, I have learned how to use API key and fetch data using the city/state/island/country names. <br><br>
+🚀 This is my first Project on "Weather App using OpenWeatherMap API" under this Internship. <br> In this project, I have learned how to use API key and fetch data using the city/state/island/country names. <br>It's a Responsive Website. <br><br>
 ⚡ Right now, I'm learning web development. <br>
 <br><br>
 
-## Visit my website
+## Visit 
 <br>
-https://pia-lashkari.github.io/CodeClause-WeatherApp/
+<img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/bb5b4fa9-f891-474a-b850-76eeebab843b" href="https://pia-lashkari.github.io/CodeClause-WeatherApp/" height=50px> <br> Click on the Icon to visit my website.
 <br><br>
 
 ## Screenshots of the Project 
@@ -23,13 +23,11 @@ https://pia-lashkari.github.io/CodeClause-WeatherApp/
 
 ## Contact 
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/priyanka-lashkari/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> LinkedIn <br><br>
+<a href="https://www.instagram.com/pialashkari/">
+<img align="left" src="" height=32px>
+</a>
 
-<a target="_blank" href="https://www.instagram.com/pialashkari/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> Instagram <br><br>
+
 
 
  
