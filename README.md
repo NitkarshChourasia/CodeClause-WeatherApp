@@ -6,7 +6,7 @@
 ⚡ Right now, I'm learning web development. <br>
 <br><br>
 
-## Visit the Website
+## Visit my website
 <br>
 https://pia-lashkari.github.io/CodeClause-WeatherApp/
 <br><br>
