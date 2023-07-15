@@ -6,6 +6,11 @@
 ⚡ Right now, I'm learning web development. <br>
 <br><br>
 
+## Visit the Website
+<br>
+https://pia-lashkari.github.io/CodeClause-WeatherApp/
+<br><br>
+
 ## Screenshots of the Project 
 <br> 
 <img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/2e5af22d-b4a4-4aab-a4bf-3994aafc8736">
