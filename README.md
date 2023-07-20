@@ -8,7 +8,10 @@
 
 ## Visit 
 <br>
-<img src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/bb5b4fa9-f891-474a-b850-76eeebab843b" href="https://pia-lashkari.github.io/CodeClause-WeatherApp/" height=50px> <br> Click on the Icon to visit my website.
+<a href="https://pia-lashkari.github.io/CodeClause-WeatherApp/">
+<img align="left" src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/bb5b4fa9-f891-474a-b850-76eeebab843b" height=50px>
+</a>
+<br> Click on the Icon to visit my website.
 <br><br>
 
 ## Screenshots of the Project 
