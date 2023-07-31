@@ -47,7 +47,7 @@
 <img align="left" src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/7f62451e-f91c-4b5b-ab16-d4642bc8f380" height=32px>
 </a>
 
-<a href="https://www.linkedin.com/in/pialashkari/">
+<a href="https://www.linkedin.com/in/pialashkari23/">
 <img align="left" src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/d4f83a6e-eea0-45d5-8998-c78cfc4d2a7e" height=32px>
 </a>
 
