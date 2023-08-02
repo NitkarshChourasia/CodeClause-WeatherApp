@@ -8,7 +8,7 @@
 
 ## Visit 
 <br>
-<a href="https://pia-lashkari.github.io/CodeClause-WeatherApp/">
+<a href="https://pialashkari23.github.io/CodeClause-WeatherApp/">
 <img align="left" src="https://github.com/pia-lashkari/CodeClause-WeatherApp/assets/139000789/bb5b4fa9-f891-474a-b850-76eeebab843b" height=50px>
 </a>
 <br> Click on the Icon to visit my website.
